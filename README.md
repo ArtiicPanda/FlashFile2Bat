@@ -1,4 +1,4 @@
 # FlashFile2Bat
 --------
 
-Place flashfile.bat in this directory and run converter.bat
+Place flashfile.xml in this directory and run converter.bat
